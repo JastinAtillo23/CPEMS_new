@@ -1,0 +1,110 @@
+﻿
+[2026-04-30 03:00:17] local.ERROR: Target class 
+[App\Http\Middleware\CheckRole] does not exist. 
+{"userId":1,"exception":"[object] 
+(Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target 
+class [App\\Http\\Middleware\\CheckRole] does not exist. at C:/Users/ADMIN/cpem
+s_new/vendor/laravel/framework/src/Illuminate/Container/Container.php:1127)
+[2026-04-30 03:00:18] local.ERROR: Target class 
+[App\Http\Middleware\CheckRole] does not exist. 
+{"userId":1,"exception":"[object] 
+(Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target 
+class [App\\Http\\Middleware\\CheckRole] does not exist. at C:/Users/ADMIN/cpem
+s_new/vendor/laravel/framework/src/Illuminate/Container/Container.php:1127)
+[2026-04-30 03:00:18] local.ERROR: Uncaught ErrorException: Cannot modify 
+header information - headers already sent by (output started at 
+C:\Users\ADMIN\cpems_new\vendor\symfony\http-foundation\Response.php:387) in 
+C:\Users\ADMIN\cpems_new\vendor\symfony\http-foundation\Response.php:322
+[2026-04-30 03:00:21] local.ERROR: Target class 
+[App\Http\Middleware\CheckRole] does not exist. 
+{"userId":1,"exception":"[object] 
+(Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target 
+class [App\\Http\\Middleware\\CheckRole] does not exist. at C:/Users/ADMIN/cpem
+s_new/vendor/laravel/framework/src/Illuminate/Container/Container.php:1127)
+[2026-04-30 03:00:22] local.ERROR: Target class 
+[App\Http\Middleware\CheckRole] does not exist. 
+{"userId":1,"exception":"[object] 
+(Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target 
+class [App\\Http\\Middleware\\CheckRole] does not exist. at C:/Users/ADMIN/cpem
+s_new/vendor/laravel/framework/src/Illuminate/Container/Container.php:1127)
+[2026-04-30 03:00:22] local.ERROR: Uncaught ErrorException: Cannot modify 
+header information - headers already sent by (output started at 
+C:\Users\ADMIN\cpems_new\vendor\symfony\http-foundation\Response.php:387) in 
+C:\Users\ADMIN\cpems_new\vendor\symfony\http-foundation\Response.php:322
+[2026-04-30 03:03:29] local.ERROR: Method 
+Illuminate\Database\Eloquent\Collection::whereHas does not exist. 
+{"userId":1,"exception":"[object] (BadMethodCallException(code: 0): Method 
+Illuminate\\Database\\Eloquent\\Collection::whereHas does not exist. at C:/User
+s/ADMIN/cpems_new/vendor/laravel/framework/src/Illuminate/Macroable/Traits/Macr
+oable.php:117)
+[2026-04-30 03:05:04] local.ERROR: View [reports.index] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[reports.index] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/framework
+/src/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:06:22] local.ERROR: View [users.index] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[users.index] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/framework/s
+rc/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:07:16] local.ERROR: View [activity_logs.index] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[activity_logs.index] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/fra
+mework/src/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:11:33] local.ERROR: Undefined variable $categories (View: 
+C:\Users\ADMIN\cpems_new\resources\views\events\browse.blade.php) 
+{"exception":"[object] (Illuminate\\View\\ViewException(code: 0): Undefined 
+variable $categories (View: 
+C:\\Users\\ADMIN\\cpems_new\\resources\\views\\events\\browse.blade.php) at C:/
+Users/ADMIN/cpems_new/storage/framework/views/f2f837db0e54ea06ed70360e975ce5b1.
+php:11)
+[2026-04-30 03:20:15] local.ERROR: Command "serve--port=8001" is not defined. 
+{"exception":"[object] 
+(Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): 
+Command \"serve--port=8001\" is not defined. at 
+C:/Users/ADMIN/cpems_new/vendor/symfony/console/Application.php:749)
+[2026-04-30 03:20:56] local.ERROR: View [dashboard] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[dashboard] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/framework/src
+/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:25:49] local.ERROR: View [dashboard] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[dashboard] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/framework/src
+/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:32:43] local.ERROR: View [dashboard] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[dashboard] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/framework/src
+/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:32:59] local.ERROR: Call to a member function format() on 
+string (View: C:\Users\ADMIN\cpems_new\resources\views\events\index.blade.php) 
+{"userId":1,"exception":"[object] (Illuminate\\View\\ViewException(code: 0): 
+Call to a member function format() on string (View: 
+C:\\Users\\ADMIN\\cpems_new\\resources\\views\\events\\index.blade.php) at C:/U
+sers/ADMIN/cpems_new/storage/framework/views/96a862c6ef58b6dd92fedcce7d7b0287.p
+hp:73)
+[2026-04-30 03:33:29] local.ERROR: Call to a member function format() on 
+string (View: C:\Users\ADMIN\cpems_new\resources\views\events\index.blade.php) 
+{"userId":1,"exception":"[object] (Illuminate\\View\\ViewException(code: 0): 
+Call to a member function format() on string (View: 
+C:\\Users\\ADMIN\\cpems_new\\resources\\views\\events\\index.blade.php) at C:/U
+sers/ADMIN/cpems_new/storage/framework/views/96a862c6ef58b6dd92fedcce7d7b0287.p
+hp:73)
+[2026-04-30 03:33:36] local.ERROR: View [dashboard] not found. 
+{"userId":1,"exception":"[object] (InvalidArgumentException(code: 0): View 
+[dashboard] not found. at C:/Users/ADMIN/cpems_new/vendor/laravel/framework/src
+/Illuminate/View/FileViewFinder.php:138)
+[2026-04-30 03:33:41] local.ERROR: Call to a member function format() on 
+string (View: C:\Users\ADMIN\cpems_new\resources\views\events\index.blade.php) 
+{"userId":1,"exception":"[object] (Illuminate\\View\\ViewException(code: 0): 
+Call to a member function format() on string (View: 
+C:\\Users\\ADMIN\\cpems_new\\resources\\views\\events\\index.blade.php) at C:/U
+sers/ADMIN/cpems_new/storage/framework/views/96a862c6ef58b6dd92fedcce7d7b0287.p
+hp:73)
+[2026-05-06 12:09:04] local.ERROR: Call to a member function format() on 
+string (View: 
+C:\Users\ADMIN\cpems_new\resources\views\reports\index.blade.php) 
+{"exception":"[object] (Illuminate\\View\\ViewException(code: 0): Call to a 
+member function format() on string (View: 
+C:\\Users\\ADMIN\\cpems_new\\resources\\views\\reports\\index.blade.php) at C:/
+Users/ADMIN/cpems_new/storage/framework/views/3e78266b3039f1a411be69f10d3db6e8.
+php:93)
+
+
