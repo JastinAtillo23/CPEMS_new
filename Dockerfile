@@ -114,4 +114,4 @@ EXPOSE 10000
 
 
 
-CMD php artisan migrate --force && apache2-foreground
+CMD php artisan migrate --force && php artisan db:seed --class=DatabaseSeeder --force && echo "SEEDING DONE" && apache2-foreground
